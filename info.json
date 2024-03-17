@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5954c072bb9b2168a3d6554316a5d7f28d087584",
+    "author": "Carl <cboettig@gmail.com>",
+    "time": "2024-02-16 05:35:56",
+    "files": 5,
+    "merge": false,
+    "message": "fix urls\n"
+  },
+  "repo": "https://github.com/ropensci/treebase",
+  "pkg": "treebase"
+}
